@@ -17,7 +17,7 @@ assignees: ''
 
 ### Acceptance Criteria
 ```gherkin
-Give
+Given
 When
 Then
 ```
